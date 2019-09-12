@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+Hello! ❤️ I'm Claire, and here's where I'll be blogging about my personal projects, and dumping all
+my thoughts about coding, gardening, and games. I'm a (Today - February 1992) year old trans lady
+who works as a full-stack developer but moonlights as a hobby game developer and (slow) speedrunner. 
+My pronouns are she/her, and my favorite food is pizza. 
 
-### More Information
+Here's some of the things I've done in the past:
+  * [HappyGB](https://github.com/necco-atsume/happygb): A sort-of-approaching-minimally-functional C# gameboy emulator.
+  * [OrgPlay](https://github.com/necco-atsume/orgplay): A player for Organya chiptune files (the
+    file format used in Cave Story).
+  * And that's pretty much it! 
 
-A place to include any other types of information that you'd like to include about yourself.
+And here's what I'm working on right now:
+  * Dash: A JS game making toolkit with a focus on making the games easy to make and share. I'll post a bit more about this once I've got someting to show. 
+  * Peppers: I'm growing some hot peppers on my balcony.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
